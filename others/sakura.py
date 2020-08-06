@@ -1,3 +1,4 @@
+#绘制一幅樱花树图像
 from turtle import *
 from random import *
 from math import *
